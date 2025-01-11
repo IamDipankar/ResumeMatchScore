@@ -24,7 +24,6 @@ To run the notebook, you need the following dependencies:
   - scikit-learn
   - matplotlib
   - seaborn
-  - [any additional libraries used in the notebook]
 
 You can install all dependencies using the provided `requirements.txt` file:
 
