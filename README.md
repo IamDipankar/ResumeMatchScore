@@ -16,7 +16,7 @@ This notebook performs the following tasks:
 
 To run the notebook, you need the following dependencies:
 
-- Python 3.8+
+- Python 3
 - Jupyter Notebook or JupyterLab
 - Required Python libraries:
   - pandas
