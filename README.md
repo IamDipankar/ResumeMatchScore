@@ -90,7 +90,7 @@ Feel free to submit issues or contribute improvements by creating pull requests.
 
 ## License
 
-This project is licensed under the Creative Attribution-NonCommercial 4.0 International License.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ## Acknowledgments
 
