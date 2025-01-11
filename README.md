@@ -1,4 +1,4 @@
-# Bitfest Datathon 2025 - Machine Learning Notebook
+# Machine Learning Notebook - for competition Bitfest Datathon 2025
 
 This repository contains the Jupyter Notebook developed for the [Bitfest Datathon 2025 Kaggle competition](https://www.kaggle.com/competitions/bitfest-datathon-2025/overview). The competition involves predictive modeling on a dataset provided during the datathon.
 
